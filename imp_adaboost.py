@@ -1,4 +1,6 @@
 import pandas as pd
+import scipy
+import numpy as np
 import numpy as np
 import random
 import time
